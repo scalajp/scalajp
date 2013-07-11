@@ -1,0 +1,295 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="## ディスクリプション ##">
+<meta name="keywords" content="## キーワード ##">
+<meta name="robots" content="index,follow">
+<meta name="copyright" content="## 著作権 ##">
+<meta name="author" content="## 著作者 ##">
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<title>日本Scalaユーザーズグループ(ScalaJP)</title>
+<!--
+<link rel="stylesheet" type="text/css" media="screen" href="http://shrkyj.com/scala/css/modern.css">
+<script type="text/javascript" src="http://shrkyj.com/scala/js/lib.js"></script>
+<script type="text/javascript" src="http://shrkyj.com/scala/js/common.js"></script>
+-->
+</head>
+<body id="index">
+<!--
+<div id="topBorder"></div>
+<div id="bodyWrap">
+<div class="clearfix">
+<div id="leftCol">
+	<div class="logo">
+		<p><a href="http://jp.scala-users.org/">
+			<img src="http://shrkyj.com/scala/img_cmn/logo.gif" alt="日本Scala ユーザーグループロゴ(ScalaJP)">
+		</a></p>
+	</div>
+	<nav>
+		<ul>
+                        <li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/news"  title="ニュース(アーカイブ)">News(Archive)<span>ニュース(アーカイブ)</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/communities" title="コミュニティとイベント">Community &amp; Event<span>コミュニティとイベント</span></a></li>
+                        <li><a href="http://jp.scala-users.org/articles"  title="技術記事">Technical Articles<span>技術記事</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/books" title="書籍">Books<span>書籍</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/supporters" title="協賛">Participating<span>協賛</span></a></li>
+                        <li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/links" title="Scala関係リンク集">Links Related to Scala<span>Scala関係リンク集</span></a></li>
+                        <li><a href="https://github.com/scalajp/scalajp.github.com/wiki" title="ScalaJPウィキ">ScalaJP Wiki<span>ScalaJPウィキ</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/about-us"  title="私たちについて">About us<span>私たちについて</span></a></li>
+			<li>
+				<a href="javascript:void(0);" title="採用事例">Use Case<span>採用事例</span></a>
+				<ul>
+					<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/scala-cases-in-japan">国内事例</a></li>
+					<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/scala-cases-overseas">海外事例</a></li>
+					<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/i-am-a-user">使っているよ♪</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+</div>
+-->
+<div id="rightCol">
+
+<div id="content">
+		<h2 class="entry-title"><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/news" rel="bookmark">ニュース(アーカイブ)</a></h2>
+        
+	<div id="post-15" class="post-15 page type-page status-publish hentry entry-content">
+		<p>日本ユーザーズグループからのニュースのアーカイブを記載していきます。トップページのニュースで古くなったものはここに移転します。</p>
+<p>&nbsp;</p>
+<hr size="3" width="100%" />
+<h2><a href="http://www.scala-lang.org/">scala-lang.org</a>の翻訳</h2>
+<h3><a href="http://www.scala-lang.org/node/26255">Scala 2.9.3 RC1</a></h3>
+<p><em>Created by cunei on 2012-12-14. Updated: 2012-12-14, 23:18 (翻訳掲載2013-01-14 mhanada)</em></p>
+<p>Scala2.9.xシリーズの新しいメンテナンスリリース候補<a href="http://www.scala-lang.org/downloads#RC">2.9.3RC1</a>を発表できてうれしく思います。このリリース候補はテスト用で、製品としては使用できません。正式版はRCサイクルの後にリリースされます。このリリース候補のテストにご協力お願いします。問題を見つけたらどんなことでも知らせてください。</p>
+<p><a href="http://www.scala-lang.org/node/26255">続きを読む（英語）</a></p>
+<p>(訳注:続きには修正された不具合のリストが掲載されていますが、不具合修正だけでなく新機能として2.10.0で導入される新しいFutureとPromiseも入っています。）</p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/25942">Scala 2.10.0 RC5</a></h3>
+<p><em>Created by cunei on 2012-12-12. Updated: 2012-12-12, 13:39 (翻訳掲載2012-12-14 mhanada)</em></p>
+<p>Scala 2.10.xシリーズの新しいリリース候補 <a href="http://www.scala-lang.org/downloads#RC">2.10.0 RC5</a>を発表できてうれしく思います。 このRC5はテストのためのリリースです。製品環境では使用しないでください。正式版2.10.0はRCサイクルの最後にリリースされる予定です。RC4ははリリースされていませんのでご注意ください（訳注：RC3はリリースされていますがニュースの翻訳をさぼりました。すみません）。このリリース候補のテストにご協力お願いします。問題を見つけたらどんなことでも知らせてください。</p>
+<p><a href="http://www.scala-lang.org/node/25942">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/16606">Scala 2.10.0 RC2</a></h3>
+<p><em>Created by admin on 2012-11-09. Updated: 2012-11-09, 11:08 (翻訳掲載2012-11-10 mhanada)</em></p>
+<p>Scala 2.10.xシリーズリリース候補第2弾 <a href="http://www.scala-lang.org/downloads#RC">2.10.0 RC2</a>を発表できてうれしく思います。 このRC2はテストのためのリリースです。製品環境では使用しないでください。正式版2.10.0はRCサイクルの最後にリリースされる予定です。このリリース候補のテストにご協力お願いします。問題を見つけたらどんなことでも知らせてください。</p>
+<p><a href="http://www.scala-lang.org/node/16606">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/13096">Scala 2.10.0 RC1</a></h3>
+<p><em>Created by admin on 2012-10-19. Updated: 2012-10-22, 13:58 (翻訳掲載2012-11-09 mhanada)</em></p>
+<p>Scala 2.10.xシリーズ初のリリース候補 <a href="http://www.scala-lang.org/downloads#RC">2.10.0 RC1</a>を発表できてうれしく思います。 このRC1はテストのためのリリースです。製品環境では使用しないでください。正式版2.10.0はRCサイクルの最後にリリースされる予定です。このリリース候補のテストにご協力お願いします。問題を見つけたらどんなことでも知らせてください。</p>
+<p><a href="http://www.scala-lang.org/node/13096">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12797">Scala 2.10.0 マイルストーン7</a></h3>
+<p><em>Created by admin on 2012-08-27. Updated: 2012-08-27, 16:38 (翻訳掲載2012-09-02 mhanada）</em></p>
+<p>Scalaの新しい<a href="http://www.scala-lang.org/downloads#Milestones">マイルストーンリリース</a>が使えるようになりました。このリリースは現在の開発版をそのまま取り出したもので、製品として使用はできません。ですが、2.10.0に入る新しい機能を試す絶好の機会です。2.10.0-M7には下記の多くの修正と改善が含まれています。</p>
+<p><a href="http://www.scala-lang.org/node/12797">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12735">Scala 2.10.0 マイルストーン6</a></h3>
+<p><em>Created by admin on 2012-07-31. Updated: 2012-07-31, 17:00 (翻訳掲載2012-08-02 mhanada）</em></p>
+<p>Scalaの新しい<a href="http://www.scala-lang.org/downloads#Milestones">マイルストーンリリース</a>が使えるようになりました。このリリースは現在の開発版をそのまま取り出したもので、製品として使用はできません。ですが、2.10.0に入る新しい機能を試す絶好の機会です。2.10.0-M6には下記の多くの修正と改善が含まれています。</p>
+<h4>このマイルストーンでの新要素:</h4>
+<ul>
+<li>Akkaアクターのjarが同梱されるようになりました。</li>
+<li>バックエンドはデフォルトでJava 1.6クラスファイルを出力します。Java 1.5クラスファイルの生成は非推奨になりました。標準以外のクラスファイルフォーマットも-target:jvm-1.5か-target:jvm-1.7オプションを指定すると出力できます。</li>
+</ul>
+<p><a href="http://www.scala-lang.org/node/12774">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12735">Scala 2.10.0 マイルストーン5</a></h3>
+<p><em>Created by admin on 2012-07-13. Updated: 2012-07-13, 18:14 （翻訳掲載2012-07-15 mhanada）</em></p>
+<p>Scalaの新しい<a href="http://www.scala-lang.org/downloads#Milestones">マイルストーンリリース</a>が使えるようになりました。このリリースは現在の開発版をそのまま取り出したもので、製品としては使用できません。ですが、2.10.0に入る新しい機能を試す絶好の機会です。2.10.0-M5には下記の多くの修正と改善が含まれています。</p>
+<h4>2.10.0-M5に含まれている改善:</h4>
+<ul>
+<li>高速化された新しいバックエンドがデフォルトで有効になりました（-target:jvm-1.6か-terget:jvm-1.7オプションが指定されなければ1.5クラスファイルが出力されます）。</li>
+<li>クラスとトレイトのScaladocページにそのクラス/トレイトの継承図が、パッケージのページにはパッケージ内のクラスとトレイト全体の継承図が含まれるようになりました。Scaladocページのヘッダにある「Type Hierachy」か「Content Hierarchy」を見てください（-diagramsが図を出力するフラグです。図の出力にはgraphvizパッケージが必要です）。</li>
+</ul>
+<p>続きには2.10.0M4以降に修正された不具合や貢献者のリストなどが掲載されています。</p>
+<p><a href="http://www.scala-lang.org/node/12735">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12719">Scala IDE for Eclipseの新しいリリース</a></h3>
+<p><em>Created by admin on 2012-06-22. Updated: 2012-06-22, 16:38 （翻訳掲載 2012-06-23 mhanada）</em></p>
+<p><a href="http://scala-ide.org/">Scala IDE for Eclipse</a>の開発が活発に進んでいます。このたび、2.0系列の新しいリリース候補が使えるようになりました。多くのバグが修正された<a href="http://scala-ide.org/blog/release-notes-2.0.2-rc1.html">Scala IDE for Eclipse 2.0.2 RC1</a>がダウンロードできます。同時に、Scala IDE開発者は来る2.1リリースの新しいマイルストーンも用意しました。<a href="http://scala-ide.org/blog/release-notes-2.1-Milestone-1-210-M4.html">Scala IDE for Eclipse 2.1 Special Edition</a>が入手できます。最近リリースされたScala 2.10.0 マイルストーン4がサポートされています。さらに、Eclipse 4.2(Juno)向けの<a href="http://scala-ide.org/download/nightly.html#scala_ide_helium_nightly_for_eclipse_42_juno">新しいナイトリービルド</a>も入手できます。Scala IDE for Eclipse開発者の多大な努力に賞賛を! 続きには<a href="http://www.scala-lang.org/node/12719">リリースノート</a>が掲載されています。</p>
+<p><a href="http://www.scala-lang.org/node/12719">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12702">Scala 2.10.0 マイルストーン4</a></h3>
+<p><em>Created by admin on 2012-06-13. Updated: 2012-06-13, 12:49 （翻訳掲載 2012-06-16 mhanada）</em></p>
+<p>Scalaの新しい<a href="http://www.scala-lang.org/downloads#Milestones">マイルストーンリリース</a>が使えるようになりました。このリリースは現在の開発版をそのまま取り出したもので、製品として使用できるものではありません。ですが、2.10.0に入る新しい機能を試す絶好の機会です。2.10.0-M4には下記の多くの修正と改善が含まれています。</p>
+<h4>2.10.0-M4に含まれている改善:</h4>
+<ul>
+<li>新しいパターンマッチ用の網羅性と到達不可能性の解析。この解析機能は全く新しく書き直されたので、現在は警告を出すだけにしています。到達不可能性チェックの精度が保証されれば「エラー」へ戻す予定です（-Xno-patmat-analysisオプションを使えばオフにできます）。</li>
+<li>デフォルトではJDK5フォーマットのクラスファイルが出力されます。これは-target:jvm-1.6オプションを使えば変更でき、これでJVMに新しい型チェック付きバイトコードベリファイを使うように指示できます。さらに、-target:jvm-1.5-asmオプションを使えばJDK5フォーマットのクラスファイが出力されますが、これだけで高速化されます。これら両機能とも初公開のため、デフォルトでは有効になっていません。</li>
+<li>新しいリフレクション（<a href="https://docs.google.com/document/d/1Z1VhhNPplbUpaZPIYdc0_EUv5RiGQ2X4oqp0i-vz1qw/edit?pli=1">SIPの原案</a>、<a href="https://github.com/scala/scala/commit/6bb5975289c5b11cb8c88dd4629286956b5d3d27">概要とM3からの移行方法</a>）</li>
+<li>-Xmacrosオプションは-Xlanguage:experimental.macrosオプションか、language.experimental.macrosをソースコード内でインポートすることに置き換えられました。他のマクロに関する変更点は以前のリストをご覧ください。</li>
+<li>ツールサポートと使用例が更新されました。うまく動くかどうか確認してください。また、みなさんのお気に入りツールのサポートを2.10に追加できるようご協力ください。</li>
+<li>Scaladocのキーボードショートカット。</li>
+<li>並列コレクションがカスタムスレッドプール環境で使えるようになりました。(<a href="http://docs.scala-lang.org/overviews/parallel-collections/overview.html">http://docs.scala-lang.org/overviews/parallel-collections/overview.html</a>）</li>
+<li>scala.collectioin.concurrentパッケージに並行トライマップ実装が入っています。</li>
+<li>scala.util.hashingパッケージによく使われるハッシュ用ユーティリティが入っています。</li>
+<li>scala.concurrentパッケージに非同期計算用のフューチャとプロミスの実装が入っています。</li>
+</ul>
+<p><a href="http://www.scala-lang.org/node/12702">続きを読む（英語）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12675">Scala IDE 2.1の2.10.0-M3用特別版が使えるようになりました!</a></h3>
+<p><em>Created by dotta on 2012-05-10. Updated: 2012-05-10, 11:27 (翻訳掲載2012-05-11 mhanada)</em></p>
+<p>数日前にScala IDEチームがScala IDE V2.1 for Eclipseの早期プレビュー版をリリースしました。次期Scalaである2.10のマイルストーン(M3)をベースにしています。このリリースにはScala IDE M1の全く新しい機能に加えて2.10のサポートのために必要ないくつかの小変更が含まれています。</p>
+<p>Scala IDEの新機能は<a href="http://scala-ide.org/blog/release-notes-2.1-Milestone-1.html">M1のリリースノート</a>で、Scala 2.10の変更点は<a href="http://www.scala-lang.org/node/12659">Scala Change Log</a>でチェックできます。<a href="http://scala-ide.org/blog/release-notes-2.1-Milestone-1-210.html">続きを読む（Scala IDEブログ)</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12659">Scala 2.10.0 マイルストーン3</a></h3>
+<p><em>Created by admin on 2012-04-30. Updated: 2012-04-30, 13:56 (翻訳掲載2012-05-02 mhanada)</em></p>
+<p>Scalaの<a href="http://www.scala-lang.org/downloads#Milestones">新しいマイルストーンリリース</a>が使用可能になりました。このリリースは開発版をそのまま取り出したもので、製品環境では使えませんが2.10.0で取り入れられる機能を試す絶好の機会です。マイルストーン2.10.0-M3には多くの修正と改善が入っています。それらのリストを続きに載せてあります。</p>
+<p><a href="http://www.scala-lang.org/node/12659">続きを読む（原文）</a></p>
+<p>訳注:2012-05-11追記</p>
+<p><a href="http://d.hatena.ne.jp/kmizushima/">kmizushimaさんがブログで2.10.0M3の新機能を解説されています。</a>（2012-05-05から）</p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12604">Scala IDE 2.1 マイルストーン1が使えるようになりました!</a></h3>
+<p><em>Created by dotta on 2012-04-13. Updated: 2012-04-13, 18:27 (翻訳掲載 2012-04-14 mhanada)</em></p>
+<p>本日（訳注:4/13）、Scala IDE 2.1 for Eclipseの早期プレビュー版をリリースしました。V2.0の目標は信頼できるScalaのコーディング環境を提供することでしたが、V2.1ではScalaの使い心地をまったく新しいレベルへ引き上げたいと思っています。<br />
+このマイルストーンでは多くの新機能が試せます。implicitのハイライト表示（訳注:暗黙変換が適用される部分に下線がついたりどうやって変換されるのかが確認できたりします。デフォルトでは暗黙変換だけですが暗黙のパラメータもハイライトできるようです）、「移動」リファクタリング（訳注:クラス/トレイト/オブジェクトを別のファイルへ移動したりひとつのファイル内の定義を複数ファイルに分けたりできます）、Scalaデバッガ（訳注:型やメソッド名がScalaらしく表示されたり、クロージャにステップインできたりその他いろいろ）、セマンティックハイライト（訳注:クラス/オブジェクト/トレイトやvar/valなどを色分けしてくれます）などがもっともエキサイティングな機能の例です。私たちと同じような人なら、一度これらを使ったらもうもとには戻れなくなるでしょう。病みつきになりますよ!</p>
+<p><a href="http://scala-ide.org/blog/release-notes-2.1-Milestone-1.html">続きを読む（Scala IDEのブログ）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12603">Scala 2.9.2 final</a></h3>
+<p><em>Created by admin on 2012-04-13. Updated: 2012-04-13, 15:36 (翻訳掲載 2012&#8211;04-14 mhanada)</em></p>
+<p>Scalaの新しい安定版がダウンロード出来るようになりました! 貢献してくれた方々、テストしてくれた方々、本当にありがとうございます。新しいScala 2.9.2は<a href="http://www.scala-lang.org/downloads">ダウンロードページ</a>にあります。このリリースはいくつものバグに対処し、さらに改良もされています。詳細は続きをご覧ください。<br />
+<a href="http://www.scala-lang.org/node/12603">続きを読む（原文）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12593">Scala 2.9.2 RC3</a></h3>
+<p><em>Created by admin on 2012-04-05. Updated: 2012-04-05, 15:13 (翻訳掲載 2012-04-06 mhanada)</em></p>
+<p>2.9.x系列の新しいリリース候補<a href="http://www.scala-lang.org/downloads#RC">2.9.2 RC3</a>がダウンロードできるようになりました。<br />
+（訳注:以下略）<br />
+<a href="http://www.scala-lang.org/node/12593">続きを読む（原文）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12578">Scala 2.9.2 RC2</a></h3>
+<p><em>Created by admin on 2012-03-30. Updated: 2012-03-30, 14:02 (翻訳掲載 2012-04-01 mhanada)</em><br />
+さらにいくつかのバックポートが追加されて2.9.x系列の新しいリリース候補<a href="http://www.scala-lang.org/downloads#RC">2.9.2 RC2</a>がダウンロードできるようになりました。<br />
+（訳注:あとは2.9.2RC1のニュース内容とほとんど同じなので省略します。続きにはRC1より増えた貢献者の名前とさらに大量の修正/変更点のリストが載っています。）<br />
+<a href="http://www.scala-lang.org/node/12578">続きを読む（原文）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12571">Scala IDE 2.0.1 RC2が出ました</a></h3>
+<p><em>Created by dotta on 2012-03-30. Updated: 2012-03-30, 15:13 (翻訳掲載2012-04-01 mhanada)</em></p>
+<p>Scala IDEの次期メンテナンスリリースの新しいリリース候補を発表できることをうれしく思います。Scala IDE 2.0.1 RC2が利用可能になりました。<br />
+2.0.1 RC1からの唯一の変更点はバンドルされるScalaのバージョンが2.9.2-RC2になったことです。</p>
+<h4>2.0.1で新しくなったこと</h4>
+<p>ビルダ、コンパイラ、エディタが改善されました。さらにEclipse3.6(Helios)とEclipse3.7(Indigo)が両方とも正式にサポートされました!</p>
+<p><a href="http://scala-ide.org/blog/release-notes-2.0.1-rc2.html">続きを読む（Scala IDEのブログ）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12568">Scala 2.9.2 RC1</a></h3>
+<p><em>Created by admin on 2012-03-21. Updated: 2012-03-21, 17:40 (翻訳掲載 2012-03-22 mhanada)</em></p>
+<p>Scala 2.9.x系列の新しいリリース候補2.9.2 RC1を発表できることをうれしく思います。このリリースは多くのバグ修正と、コミュニティから還元されたドキュメントとScalaDocの改善が含まれています。ビルドツールに2.9.2 RC1の場所を教えてあげてください!</p>
+<p>このリリース候補RC1はテストのためだけに作られています。製品には使用しないでください。正式な2.9.2はRCサイクルの最後にリリースされます。テストにご協力ください。見つけた不具合はなんでも報告をお願いします。<br />
+<a href="http://www.scala-lang.org/node/12568">続きを読む（原文）</a><br />
+（訳注:続きには貢献者の名前と大量の修正/変更点リストが載っています）</p>
+<hr size="2" />
+<h3><a href="http://www.scala-lang.org/node/12565">Scalaで取り組むSummer of Code 2012</a></h3>
+<p><em>Created by plocinic on 2012-03-19. Updated: 2012-03-19, 11:03 (翻訳掲載 2012-03-21 mhanada)</em></p>
+<p>今年もScalaチームはやりがいのあるScalaプロジェクトで再度参加が認められた熱心な学生たちとともに<a href="http://code.google.com/soc">GoogleのSummer of Codeプログラム</a>に三たび取り組みます。Summer of Code <a href="http://www.scala-lang.org/gsoc2010#">2010</a>と<a href="http://www.scala-lang.org/gsoc2011#">2011</a>では多くの開発プロジェクトが成功しました。私たちはこれを続けていきたいと思っています。Googleは好みのオープンソースプロジェクトに関するおもしろくて簡単ではない問題を提案する学生を募集し、夏の間彼らにその問題に取り組んでもらいます。学生たちはやりがいのある問題を解く満足感に加え、報奨金を得られます。</p>
+<p>みんなのために<a href="http://www.scala-lang.org/gsoc2012#">プロジェクトのアイディアリスト</a>をまとめておきました。学生たちがこれらのアイディアにもっと深く踏み込んで、独自の提案と進め方のプランを盛り込んでくれることを期待しています。他のアイディアもいつでも歓迎しますが応募する前にメーリングリストで議論することをお勧めします。ScalaとGoogle Summer of Codeについて詳しくは<a href="http://www.scala-lang.org/gsoc2012#">このページ</a>を見てください。学生の申し込み締め切りは<strong>4月6日</strong>です。</p>
+<hr size="2" />
+<h3><a href="http://www.scala-lang.org/node/12566">Typesafe Stack 2.0がリリースされました</a></h3>
+<p><em>Created by admin on 2012-03-13. Updated: 2012-03-13, 18:09 (翻訳掲載2012-03-16 mhanada)</em></p>
+<p>TypesafeがJavaとScalaの両開発者に向けてTypesafe Stack 2.0をリリースしました。詳細は<a href="http://blog.typesafe.com/introducing-typesafe-stack-20">Typesafeのブログ</a>をご覧ください。</p>
+<p>これはScala開発者にとって興味深いものです。というのはScala、並行処理用ミドルウェアAkka、そしてウェブフレームワークPlay!それぞれの最新版が統合されているからです（訳注:AkkaとPlay!はともに2.0）。すべてがお互いに協調して動くように統合されているので、スケーラブルなウェブアプリケーションを自由な発想で作りやすくなります。Scala版は安定していますがその上には数々の革新が盛り込まれています。<br />
+<a href="http://www.scala-lang.org/node/12566">続きを読む（原文）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12560">Akka 2.0リリース!</a></h3>
+<p><em>Created by bagwell on 2012-03-06. Updated: 2012-03-06, 12:56 (翻訳掲載 2012-03-11 mhanada)</em></p>
+<p>Akka 2.0がリリースされました。&#8221;並行姓、耐障害性、スケーラビリティの点でプログラミングが革新的に進化します。&#8221;<br />
+Jonas Bonérによれば、AkkaチームはAkka 1シリーズの経験を生かし、&#8221;次のレベルへと進みました。標準機能による回復性、コンフィグレーションで対応できるスケーラビリティ、設計の工夫による拡張性、さらに小さなフットプリント。&#8221;<br />
+Akka 2.0はScalaやJavaを使った並行ブログラミングを大きく前進させます。Akka 2.0には開発者の仕事を楽にする多くの新機能があります。SupervisionとDeath Watch、PathとAddress、Location Transparency、Event Bus、Futureの改善、パフォーマンスとスケーラビリティの大きな改善など。新機能の概要については<a href="http://blog.typesafe.com/introducing-akka-20-2756#!/">JonasのTypesafeブログ</a>をご覧ください。<br />
+<a href="http://www.scala-lang.org/node/12560">続きを読む（原文）</a></p>
+<p>(訳注:<a href="http://blog.typesafe.com/introducing-akka-20-2756#!/">JonasのTypesafeブログ</a>を要約してみました。</p>
+<ul>
+<li>Supervision:Actorは必ず親子関係を持ち、親が子の実行失敗時の動作(Resume,Restart,Terminate,Escalate(親に失敗を伝える))を指示できます。</li>
+<li>Death Watch:(親子関係に関係なく)他のActorの中断/終了を監視できます。</li>
+<li>PathとAddress:Actorが親子関係を持つので、あるActorを識別するのにファイルシステム同様にパスという概念を使います。パスはURI形式で&#8221;akka://my-system@serv.example.com:5678/user/service-b&#8221;のように表すようです。</li>
+<li>Location Transparency:ActorをURI形式で指定できるので、ローカルとリモートの区別なく設定ファイルで配置を変えられます。</li>
+<li>Event Bus:以前より簡単にイベント駆動型のシステムを作れるようにActorのグループにメッセージを送信できるトレイトが用意されています。</li>
+<li>Futureの改善:FutureがExecutionContextやTimeoutの管理、Actor.askの機能と分離されたためノンブロッキング並行計算処理の自由度が増しました。また、Scala 2.10に導入される標準ライブラリのFutureを使用しています。</li>
+<li>パフォーマンスとスケーラビリティ:新しいFork/Join executorにより、マルチコアマシンではjava.util.concurrent.ThreadPoolExecutorと比較して10倍の高速化が可能な場合があるそうです。</li>
+<li>Akka 1.xからの移行をサポートするマイグレーションキットがついています。</li>
+</ul>
+<p>)</p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12558">Scala Days 2012 発表者と講演</a></h3>
+<p><em>Created by bagwell on 2012-03-05. Updated: 2012-03-06, 07:11 (翻訳掲載 2012-03-09 mhanada)</em></p>
+<p>これまでで最大かつ最もエキサイティングなScala Daysです。すばらしいキーノート、ロンドンのBarbicanという信じられないような開催地、そして最高の講演。</p>
+<p><a href="http://days2012.scala-lang.org/node/92">選考に通った講演内容のリストをご覧ください。</a>今年はどのセッションに出るか選ぶのがいっそう大変になりそうです。渋々他のセッションはあきらめなければいけないでしょう。37のすばらしく実践的な講演と8つの研究論文の発表があります。<br />
+4月17/18日に行われるScala Days 2012にはScalaの利用に関する最新情報を提供してくれる最先端のプロの開発者が登場する3つのトラックがあります。Scalaを使っていたり、Scalaを使おうと思っているのなら、Scala DaysはScalaの世界で起こっていることを知るのに最適な場所です。<br />
+<a href="http://www.scala-lang.org/node/12558">続きを読む（原文）</a></p>
+<p>(訳注:講演者に関連するリンク集は<a href="https://github.com/scalajp/scalajp.github.com/wiki/scaladays2012links">こちら</a>)</p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12559">Scala 2.9.1-1</a></h3>
+<p><em>Created by admin on 2012-03-04. Updated: 2012-03-04, 20:07 (翻訳掲載 2012-03-05 mhanada)</em><br />
+ScalaチームはScala 2.9.x系列の新しい安定板リリース<a href="http://www.scala-lang.org/downloads">Scala 2.9.1-1</a>を発表できてうれしく思います。<br />
+（訳注:以下2.9.1-1 RC1のニュースと同じ内容なので省略します。）</p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12555">Scala 2.9.1-1 RC1</a></h3>
+<p><em>Created by admin on 2012-02-29. Updated: 2012-02-29, 14:07 (翻訳掲載 2012-03-03 mhanada)</em></p>
+<p>Scala 2.9.x系列の新しいリリース候補<a href="http://www.scala-lang.org/downloads#RC">2.9.1-1 RC1</a>を発表できることをうれしく思います。このリリースでJavaとScalaの相互運用に関する2.9.1の重要な問題が修正されます。以下は変更点のリストです:</p>
+<ul>
+<li>ミックスインされたメソッドにブリッジのマークをつけない。</li>
+<li>ブリッジメソッドにSYNTHETICフラグをつける。</li>
+<li>sonatypeOSSリポジトリホスティング登録用のビルドをアップデート</li>
+</ul>
+<p>Scala 2.9.1-1リリースは控えめなバグ修正が目的のリリースです。この後にもっと積極的にバグ修正した2.9.2リリースが控えています。</p>
+<p>このRC1リリースはテスト用に作られたものです。製品環境では使用できません。RCサイクルの最後で最終的な2.9.1-1がリリースされます。このリリース候補のテストにご協力をお願いします。どんな不具合や非互換性でも見つけたらお知らせください。</p>
+<p>(訳注:ブリッジについては<a href="http://d.hatena.ne.jp/yuroyoro/20110525/1306315628">ゆろよろさんの日記</a>が（途中まで）参考になります。)</p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12550">Scala 2.10.0 マイルストーン2</a></h3>
+<p><em>Created by admin on 2012-02-21. Updated: 2012-02-21, 16:12 (翻訳掲載 2012-03-03 mhanada)</em></p>
+<p>Scalaの<a href="http://www.scala-lang.org/downloads#Milestones">新しいマイルストーンリリース</a>が入手可能になりました。これは最新の開発版をそのまま取り出したもので、製品環境で使用できるものではありません。ですが、Scala 2.10.0に取り入れられる機能を試す絶好のチャンスです。</p>
+<p>このマイルストーンリリースには以下の不具合修正と改善が含まれています:</p>
+<ul>
+<li>コンカレントコレクション（訳注:同時アクセス時の性能とスレッドセーフが考慮されたコレクション）を利用したパラレルコレクション（訳注:コレクション演算が並列実行されるコレクション）の実装をサポート。特に、コンカレントコレクションを使ってCombinerの実装が可能になります。</li>
+<li>標準ライブラリにCトライを追加。上記のメカニズムを使ってパラレルCトライを実装しています。</li>
+<li>新しいフューチャーとプロミスのライブラリがscala.concurrentパッケージに追加されました。Akkaチームと協力した成果です。</li>
+<li>レイフィケーションの改善多数。</li>
+<li>仮想化パターンマッチの改善。 -Yvirtpatmatオプションをつけてコンパイルしてください。2.10.0 M3ではデフォルトでオンにする予定です。</li>
+<li>オプティマイザの大幅な高速化。</li>
+<li>赤黒木の改善。</li>
+<li>特化型パラメータの不具合修正（AnyRef、finalと@inlineの相互作用 &#8212; ありがとう、Erik Osheim!）。</li>
+</ul>
+<p><a href="http://www.scala-lang.org/node/12550">続きを読む（原文）</a></p>
+<p>（訳注:続きには修正された不具合のリストがあります。<br />
+パッチ提供者としてKota Mizushima(@kmizu）さんの名前が掲載されています!<br />
+レイフィケーションってなに？という方（←訳者）は<a href="http://d.hatena.ne.jp/m-hiyama/20080109/1199863428">檜山正幸さんのブログ記事</a>が参考になります。）</p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12473">Scala Days 2012 &#8211; シェイプアップ!</a></h3>
+<p><em>Created by bagwell on 2012-02-12. Updated: 2012-02-13, 19:49  (翻訳掲載 2012-02-22 mhanada)</em></p>
+<p><a href="http://days2012.scala-lang.org/">4月17、18日に行われるScala Days 2012</a>にはすでに160名以上の参加者が集まっています。すべての研究論文が出そろい、25以上の実践的な技術発表が寄せられ、さらに他にも進行中です。扱われるテーマは広範にわたっています。ブラウザで動くScala、Anti-XML（訳注:scala.xmlパッケージを置き換えようというプロジェクト）、バイナリ互換性、ウェブフレームワーク、クラウドコンピューティング、ビッグデータ処理、Akka 2.0、フューチャの統合（訳注:scala.actorsやAkka、Finagleなど色々なプロジェクトで作られているFuture（将来計算結果が出るであろう何かの値を表すオブジェクト。並列処理で使われる。）ライブラリを<a href="http://docs.scala-lang.org/sips/pending/futures-promises.html">Scalaの標準APIとして統合しようという話）</a>、テスト、新しい不変データ構造などまだまだあります。<br />
+<a href="http://www.scala-lang.org/node/12473">続きを読む（原文）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12437">ScalaアーティファクトがMavenセントラルリポジトリに &#8211; Scala-toolsは引退</a></h3>
+<p><em>Created by bagwell on 2012-02-07. Updated: 2012-02-09, 11:34　(翻訳掲載 2012-02-12 mhanada)</em></p>
+<p>数週間前まではscala-tools.orgがホストしているScalaアーティファクトのカスタムリポジトリを使用するすべてのScalaプロジェクは少し余分な設定をする必要がありました。今ではもっと楽になり、ScalaアーティファクトをMavenセントラルリポジトリから直接利用できるようになっています。Scala-toolsはその役目を終えるでしょう。scala-tools.orgのコンテンツは<a href="http://nexus.sonatype.org/oss-repository-hosting.html">Sonatype OSSリポジトリホスティングサービス</a>に統合されており、他のプロジェクトは既にMavenセントラルでアーティファクトの提供を開始しています。</p>
+<p>これはScalaコミュニティにとってすばらしいニュースです。Sonatypeホスティングの大きな利点はあなたのプロジェクトがMavenセントラル上にのるということであり、つまりあなたのユーザに多大な利便性をもたらすことになります。高速にダウンロードできるミラーが無数にあり、アクセスが保証され、しっかりした企業があなたのアーティファクトの配布を支えてくれます。このおかげでScalaはもっと簡単に使えるようになり、商用利用するユーザのコミュニティ拡大に必要な堅牢性がScalaのエコシステムに与えられます。<br />
+<a href="http://www.scala-lang.org/node/12437">続きを読む（原文）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12435">Lift 2.4がリリースされました</a></h3>
+<p><em>Created by bagwell on 2012-02-07. Updated: 2012-02-09, 11:34 （翻訳掲載2012-02-12 mhanada)</em></p>
+<p><a href="http://liftweb.net/">Lift</a>の開発者コミュニティが<a href="http://liftweb.net/24_release">Lift 2.4 final</a>バージョンを自信を持って送り出しました。LiftはGuardianやfoursquare、Open Studyといった多くの企業で使用されている非常に成熟したScala用のウェブフレームワークです。多くの機能が追加され、ほとんどの既知のバグが修正されています。<br />
+Liftの開発者とユーザは大量の機能強化による利便性を享受できるでしょう。Liftコミュニティはユーザのフィードバックにしっかり応えて開発者の仕事をずっと簡単にしてくれました。強化点を少しだけお伝えすると、JSONサポートの向上、Crudify用のSqueryl/Recordのサポート、MongoDBのレコードとバイナリフィールド参照のサポート改良、BsonDSLサポート（BSONの型からJsonDSLへの変換）、メーラ機能の改善、CSSセレクタトランスフォーマとdata-lift属性を使ったhtml5準拠のテンプレートの増強などがあります。<br />
+<a href="http://www.scala-lang.org/node/12435">続きを読む（原文）</a></p>
+<hr size="2" width="100%" />
+<h3><a href="http://www.scala-lang.org/node/12256">Scala IDE for Eclipseのロードマップ</a></h3>
+<p><em>Created by dotta on 2012-01-20. Updated: 2012-01-20, 15:05 (翻訳掲載 2012-02-11 mhanada)</em></p>
+<p>Scala IDEチームが今後のScala IDE for Eclipseのロードマップを発表しました。以下はアナウンスの一部です。</p>
+<p>「私たちのマイルストーンは3つあります。それぞれが新機能と現在のプラグインアーキテクチャの大幅な設計の見直しを含んでいます。実際、将来のリリースの重要なゴールの一つは、Scala IDEにプラグインを組込みたいと考えている開発者にすっきりしたシンプルなAPIを提供することです。」</p>
+<p>アナウンスの全文は<a href="http://scala-ide.org/blog/scala-ide-roadmap.html">Scala IDE ブログ</a>をご覧ください。</p>
+<p>（訳注:Scala IDEブログでは改善点の例として、マイルストーン1で暗黙パラメータの色付け、意味論に基づく色付け、Eclipse Indigoへの移行、プレゼンテーションコンパイラに依存しないScalaモデルの設計と実装、ワークシート（REPLが動くエディタ）など、マイルストーン2で参照の検索のサポート、Scalaエディタの改善、依存性トラッキングの改善、マイルストーン3で型階層のサポート、Scala検索、呼び出し階層のサポートなどが挙げられています。）</p>
+<div></div>
+			</div>
+
+	<div class="meta">
+		<p>Posted 2012/01/30 by <span class="author vcard"><a class="url fn n" href="http://jp.scala-users.org/author/scalauser" title="View all posts by scalauser">scalauser</a></span></p>
+	</div>
+
+	
+
+</div><!-- /#content -->
+
+
+</div><!-- /rightCol -->
+</div>
+<div id="footer">
+	<address>Copyright&copy; Japan Scala Users Group All Rights Reserved.</address>
+</div>
+</div><!-- /bodyWrap -->
+</body>

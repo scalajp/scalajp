@@ -1,0 +1,95 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="## ディスクリプション ##">
+<meta name="keywords" content="## キーワード ##">
+<meta name="robots" content="index,follow">
+<meta name="copyright" content="## 著作権 ##">
+<meta name="author" content="## 著作者 ##">
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<title>日本Scalaユーザーズグループ(ScalaJP)</title>
+<!--
+<link rel="stylesheet" type="text/css" media="screen" href="http://shrkyj.com/scala/css/modern.css">
+<script type="text/javascript" src="http://shrkyj.com/scala/js/lib.js"></script>
+<script type="text/javascript" src="http://shrkyj.com/scala/js/common.js"></script>
+-->
+</head>
+<body id="index">
+<!--
+<div id="topBorder"></div>
+<div id="bodyWrap">
+<div class="clearfix">
+<div id="leftCol">
+	<div class="logo">
+		<p><a href="http://jp.scala-users.org/">
+			<img src="http://shrkyj.com/scala/img_cmn/logo.gif" alt="日本Scala ユーザーグループロゴ(ScalaJP)">
+		</a></p>
+	</div>
+	<nav>
+		<ul>
+                        <li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/news"  title="ニュース(アーカイブ)">News(Archive)<span>ニュース(アーカイブ)</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/communities" title="コミュニティとイベント">Community &amp; Event<span>コミュニティとイベント</span></a></li>
+                        <li><a href="http://jp.scala-users.org/articles"  title="技術記事">Technical Articles<span>技術記事</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/books" title="書籍">Books<span>書籍</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/supporters" title="協賛">Participating<span>協賛</span></a></li>
+                        <li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/links" title="Scala関係リンク集">Links Related to Scala<span>Scala関係リンク集</span></a></li>
+                        <li><a href="https://github.com/scalajp/scalajp.github.com/wiki" title="ScalaJPウィキ">ScalaJP Wiki<span>ScalaJPウィキ</span></a></li>
+			<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/about-us"  title="私たちについて">About us<span>私たちについて</span></a></li>
+			<li>
+				<a href="javascript:void(0);" title="採用事例">Use Case<span>採用事例</span></a>
+				<ul>
+					<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/scala-cases-in-japan">国内事例</a></li>
+					<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/scala-cases-overseas">海外事例</a></li>
+					<li><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/i-am-a-user">使っているよ♪</a></li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+</div>
+-->
+<div id="rightCol">
+
+<div id="content">
+		<h2 class="entry-title"><a href="http://jp.scala-users.org/top%e3%83%9a%e3%83%bc%e3%82%b8/communities" rel="bookmark">コミュニティ</a></h2>
+        
+	<div id="post-52" class="post-52 page type-page status-publish hentry entry-content">
+		<p>全国各地のScalaコミュニティや定期開催されている勉強会、その他Scala関係のイベントについての情報をまとめたものです。</p>
+<h3>メーリングリスト</h3>
+<ul>
+<li><a href="http://jp.scala-users.org/ml">ScalaJP Google Groups (ML)</a></li>
+</ul>
+<h3>イベント</h3>
+<ul>
+<li>ScalaJP:<a href="http://jp.scala-users.org/topページ/scalakaigi2nd">第二回Scala会議(2012/12/10)</a></li>
+<li>ScalaJP:<a href="https://groups.google.com/forum/#!topic/scala-jp/l5i6kJcOnB4">Scala初心者向けハンズオン勉強会(2012/02/18)</a></li>
+<li><a href="http://togetter.com/li/283845">JavaOne Tokyo 2012 JVM言語BoF #jt12_b101(2012/04/04)</a>: ScalaJPが参加</li>
+</ul>
+<h3>コミュニティ</h3>
+<ul>
+<li><a href="http://www.scala-users.org/shibuya/index.php">Scala勉強会 in 渋谷</a> 渋谷および秋葉原で、ほぼ毎週、Scalaの勉強会を開催されています。最新のScalaに関する話題も多く取り扱っている一方で、参加の敷居は低いです。また、不定期で、Scalaハッカソンなどのイベントも開催されています。</li>
+<li><a href="http://akskscala.github.com/">Akasaka.scala</a> 赤坂（溜池山王）界隈を中心としたScalaプログラマのコミュニティです。主な活動 として、週一回、Javaのバックグラウンドを持つ方を対象としたハンズオン勉強会を 開催されていましたが、最近はその他にも色々やっているようです。</li>
+<li><a href="https://groups.google.com/group/NagoyaScala?hl=ja">名古屋Scala勉強会</a> 名古屋近辺で、Scalaに関する勉強会を毎月開催されています。勉強会では、Scalaにとどまらず、OCaml,Haskellなど、その他のプログラミング言語に関する話題も取り扱っておられるようです。</li>
+<li><a href="http://tenryo-kurashiki-scala.appspot.com/">天領倉敷Scala</a> 岡山県倉敷市近辺でScalaの勉強会を行うコミュニティです。現在、書籍『Scalaプログラミング入門』を使った勉強会を開催されているようです。</li>
+</ul>
+<div id="-chrome-auto-translate-plugin-dialog" style="display: none; opacity: 1 !important; border-color: none !important; background: transparent !important; padding: 0 !important; margin: 0 !important; position: absolute !important; top: 0; left: 0; overflow: visible !important; z-index: 999999 !important; text-align: left !important;">
+<div style="max-width: 300px !important; color: #fafafa !important; opacity: 0.8 !important; border-color: #000000 !important; border-width: 0px !important; -webkit-border-radius: 10px !important; background-color: #363636 !important; font-size: 16px !important; padding: 8px !important; overflow: visible !important; background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #000), color-stop(50%, #363636), color-stop(100%, #000)); z-index: 999999 !important; text-align: left  !important;"></div>
+<p><img style="position: absolute !important; z-index: -1 !important; right: 1px !important; top: -20px !important; cursor: pointer !important; -webkit-border-radius: 20px; background-color: rgba(200, 200, 200, 0.3) !important; padding: 3px 5px 0 !important; margin: 0 !important;" onclick="document.location.href='http://translate.google.com/';" src="http://www.google.com/uds/css/small-logo.png" alt="" /></p>
+</div>
+			</div>
+
+	<div class="meta">
+		<p>Posted 2011/12/04 by <span class="author vcard"><a class="url fn n" href="http://jp.scala-users.org/author/scalauser" title="View all posts by scalauser">scalauser</a></span></p>
+	</div>
+
+	
+
+</div><!-- /#content -->
+
+
+</div><!-- /rightCol -->
+</div>
+<div id="footer">
+	<address>Copyright&copy; Japan Scala Users Group All Rights Reserved.</address>
+</div>
+</div><!-- /bodyWrap -->
+</body>
