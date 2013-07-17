@@ -1,1 +1,6 @@
 *~
+.*.sw*
+_site
+.rvmrc
+.ruby-version
+.ruby-gemset
