@@ -19,6 +19,6 @@ title: ニュース(アーカイブ)
       {% endif %}
     {% endunless %}
 
-    <li>{{ post.date | date:"%m/%d" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>{{ post.date | date:"%m/%d" }} <a href="{{ page.root}}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
