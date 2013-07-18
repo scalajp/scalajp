@@ -10,7 +10,7 @@ title: コミュニティとイベント
 
 ### メーリングリスト
 
-* [ScalaJP Google Groups (ML)](http://jp.scala-users.org/ml)
+* [ScalaJP Google Groups (ML)](https://groups.google.com/forum/#!forum/scala-jp)
 
 ### イベント
 
