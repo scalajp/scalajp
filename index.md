@@ -9,10 +9,12 @@ title: 日本Scalaユーザーズグループ
     <p>日本Scalaユーザーズグループでは、Scalaのより一層の普及を目指しています。</p>
 </div>
 
-<div id="home">
-    <ul class="posts">
-        {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
+<div>
+    {% for post in site.posts limit:3 %}
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <div>{{ post.date | date_to_string }}</div>
+    <div>{{ post.content }}</div>
+    {% endfor %}
 </div>
+
+#### [過去の記事を読む]({{ page.root }}news.html)
