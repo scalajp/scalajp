@@ -1,6 +1,6 @@
 ---
 layout: post
-root: ../../../
+root: ../../..
 title: Scala IDE for Eclipseのロードマップ
 ---
 

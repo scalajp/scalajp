@@ -1,6 +1,6 @@
 ---
 layout: post
-root: ../../../
+root: ../../..
 title: ScalaアーティファクトがMavenセントラルリポジトリに – Scala-toolsは引退
 ---
 
