@@ -1,6 +1,6 @@
 ---
 layout: default
-root: ./
+root: .
 title: ニュース(アーカイブ)
 ---
 

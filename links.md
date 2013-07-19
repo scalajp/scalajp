@@ -1,6 +1,6 @@
 ---
 layout: default
-root: ./
+root: .
 title: Scala関係リンク集
 ---
 

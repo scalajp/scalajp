@@ -1,6 +1,6 @@
 ---
 layout: post
-root: ../../../
+root: ../../..
 title: Scalaで取り組むSummer of Code 2012
 ---
 
