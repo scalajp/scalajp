@@ -21,7 +21,7 @@ Scalaを現時点で導入、または将来的な導入を検討している
 ### 協賛企業/団体一覧
 
 * [Twitter Inc.](http://twitter.com/about)
-* [アスタミューゼ株式会社 （旧 株式会社パテントビューロ）](http://www.patentbureau.co.jp/)
+* [アスタミューゼ株式会社 （旧 株式会社パテントビューロ）](http://www.astamuse.co.jp/)
 * [有限会社ITプランニング](http://www.itpl.co.jp/)
 * [エムスリー株式会社](http://corporate.m3.com/)
 * [GMOメディア株式会社](http://www.gmo-media.jp/)
