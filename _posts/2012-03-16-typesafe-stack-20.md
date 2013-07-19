@@ -1,6 +1,6 @@
 ---
 layout: post
-root: ../../../
+root: ../../..
 title: Typesafe Stack 2.0がリリースされました
 ---
 

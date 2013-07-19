@@ -1,6 +1,6 @@
 ---
 layout: default
-root: ./
+root: .
 title: 採用事例(国内)
 ---
 

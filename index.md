@@ -1,6 +1,6 @@
 ---
 layout: default
-root: ./
+root: .
 title: 日本Scalaユーザーズグループ
 ---
 
@@ -17,4 +17,4 @@ title: 日本Scalaユーザーズグループ
     {% endfor %}
 </div>
 
-#### [過去の記事を読む]({{ page.root }}news.html)
+#### [過去の記事を読む]({{ page.root }}/news.html)
