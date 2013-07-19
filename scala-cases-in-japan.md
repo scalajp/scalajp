@@ -44,7 +44,7 @@ title: 採用事例(国内)
 * レコメンデーションシステムのバックエンド  
 Scala から MySQL にアクセスするために [querulous](http://github.com/twitter/querulous) というライブラリを使用するなど
 
-### [株式会社パテントビューロ](http://www.patentbureau.co.jp/)
+### [アスタミューゼ株式会社](http://www.astamuse.co.jp/)
 
 * [astamuse](http://astamuse.com/) （知財メディア）
 * [転職ナビ](http://robots-job.com/) （転職サイト – 独自CSM内蔵）
