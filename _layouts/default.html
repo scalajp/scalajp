@@ -8,7 +8,9 @@
     <meta name="author" content="## 著作者 ##">
     <meta http-equiv="X-UA-Compatible" content="IE=9"/>
     <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ page.root }}/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="{{ page.root }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="{{ page.root }}/css/main.css" rel="stylesheet" media="screen">
 </head>
 <body>
@@ -17,7 +19,7 @@
         <img class="logo" src="{{ page.root }}/img/scalajp_logo.png" alt="日本Scala ユーザーグループロゴ(ScalaJP)">
     </a>
 
-    <div class="row">
+    <div class="row-fluid">
         <div class="span3">
             <ul class="nav nav-list">
                 <li><a href="{{ page.root }}/news.html">ニュース(アーカイブ)</a>
