@@ -10,26 +10,25 @@ Scala関係のリンク集です。
 
 ### Scala 処理系関連(Links Related to Scala Offical)
 
-* [APIリファレンス Scala 2.9.2](http://www.scala-lang.org/api/2.9.2/index.html#package)
-* [APIリファレンス Scala 2.9.1](http://www.scala-lang.org/api/2.9.1/index.html#package)
 * [APIリファレンス Scala 最新](http://www.scala-lang.org/api/current/index.html)
-* [APIリファレンス Scala 2.7.7](http://www.scala-lang.org/api/2.7.7/index.html#package)
-* [APIリファレンス Scala 2.8.2](http://www.scala-lang.org/api/2.8.2/index.html#package)
+* [APIリファレンス Scala 2.10.2](http://www.scala-lang.org/api/2.10.2/index.html#package)
+* [APIリファレンス Scala 2.9.3](http://www.scala-lang.org/api/2.9.3/index.html#package)
 * [Scalaのオフィシャルサイト(英語)](http://www.scala-lang.org/)
+* [Scalaのオフィシャルドキュメンテーションサイト(英語)](http://docs.scala-lang.org/)
 
 ### Scalaツール関係(Links Related to Scala Tools)
 
 * [Akka](http://akka.io/)
 * Webアプリケーションフレームワーク
   * [Lift](http://liftweb.net/)
-  * [playframework](http://playdocja.appspot.com/)[(英語)](http://www.playframework.org/)
+  * [playframework](http://www.playframework-ja.org/)[(英語)](http://www.playframework.com/)
 * IDE&ビルドツール
   * [ScalaIDE](http://www.scala-ide.org/) Eclipseのプラグイン
   * [IntelliJ IDEA](http://www.jetbrains.com/idea/) scalaにも対応したIDE。Scala初心者向けハンズオン勉強会にて利用します。
-  * [sbt (Scala Build Tool)](https://github.com/harrah/xsbt/wiki)
-  * [始めるsbt](http://eed3si9n.github.com/sbt-getting-started-guide-ja/)([原文](https://github.com/harrah/xsbt/wiki/Getting-Started-Welcome))
+  * [sbt (Scala Build Tool)](http://www.scala-sbt.org/)
+  * [始めるsbt](http://scalajp.github.com/sbt-getting-started-guide-ja/)([原文](http://www.scala-sbt.org/release/docs/Getting-Started/Welcome.html))
 * データベースアクセス
-* [scalaz](http://code.google.com/p/scalaz/)
+* [scalaz](http://github.com/scalaz/scalaz/)
 
 ### その他、Scalaお役立ちリンク集
 
