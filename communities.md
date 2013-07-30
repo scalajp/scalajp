@@ -20,7 +20,7 @@ title: コミュニティとイベント
 
 ### コミュニティ
 
-* [Scala勉強会 in 渋谷](http://www.scala-users.org/shibuya/index.php) 渋谷および秋葉原で、ほぼ毎週、Scalaの勉強会を開催されています。最新のScalaに関する話題も多く取り扱っている一方で、参加の敷居は低いです。また、不定期で、Scalaハッカソンなどのイベントも開催されています。
+* [Scala勉強会 in 東京(通称rpscala)](http://www.scala-users.org/shibuya/index.php) 現在は本郷にて、2週に一度、Scalaの勉強会を開催しています。最新のScalaに関する話題も多く取り扱っている一方で、参加の敷居は低いです。また、不定期で、Scalaハッカソンなどのイベントも開催されています。
 * [Akasaka.scala](http://akskscala.github.com/) 赤坂（溜池山王）界隈を中心としたScalaプログラマのコミュニティです。主な活動 として、週一回、Javaのバックグラウンドを持つ方を対象としたハンズオン勉強会を 開催されていましたが、最近はその他にも色々やっているようです。
 * [名古屋Scala勉強会](https://groups.google.com/group/NagoyaScala?hl=ja) 名古屋近辺で、Scalaに関する勉強会を毎月開催されています。勉強会では、Scalaにとどまらず、OCaml,Haskellなど、その他のプログラミング言語に関する話題も取り扱っておられるようです。
 * [天領倉敷Scala](http://tenryo-kurashiki-scala.appspot.com/) 岡山県倉敷市近辺でScalaの勉強会を行うコミュニティです。現在、書籍『Scalaプログラミング入門』を使った勉強会を開催されているようです。
