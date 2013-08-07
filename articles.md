@@ -28,3 +28,5 @@ Scala 2.8のアクター APIの解説文書です。そう遠くない将来に�
 * [Scalaで圏論入門](https://github.com/scalajp/introduction-to-category-theory-in-scala-jp/wiki)  
 Heiko Seeberger 氏による「Introduction to Category Theory in Scala」の翻訳です。「圏論入門」といっても、あくまでScalaプログラマにとって、圏論を学ぶことがどう役に立つか、という観点の話になっています。
 訳：[@quassia88](https://twitter.com/quassia88)
+* [ガイドと概要 - Scala Documentation](http://docs.scala-lang.org/ja/overviews/index.html)
+公式ページのドキュメントの内、日本語訳されているものです。現在のところ、文字列の補間、マクロ、リフレクション、コレクションライブラリ等についてのドキュメントを日本語で読むことができます。[@eed3si9n](https://twitter.com/eed3si9n) さんが中心となって翻訳したものです。
