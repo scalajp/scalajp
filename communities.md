@@ -11,6 +11,7 @@ title: コミュニティとイベント
 ### メーリングリスト
 
 * [ScalaJP Google Groups (ML)](https://groups.google.com/forum/#!forum/scala-jp)
+* [日本Playframeworkユーザー会](https://groups.google.com/forum/#!forum/play_ja)
 
 ### イベント
 
