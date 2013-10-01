@@ -18,7 +18,7 @@ Scalaハンズオン勉強会での教訓を元に作成された、IntelliJ IDE
 * [Effective Scala](http://scalajp.github.com/effectivescala/index-ja.html)  
 Scalaを採用している事で有名なTwitter社内で書かれた、Scalaをより効果的に使うためのガイドラインです。Scalaを実践で導入してみようとしている人は、参考になるかもしれません。
 * [始める sbt](http://scalajp.github.com/sbt-getting-started-guide-ja/)  
-sbt (0.11系)のチュートリアルです。とりあえず、sbtに触ってみようとするときに、有用なガイドになるでしょう。訳：[@eed3si9n](https://twitter.com/eed3si9n)
+sbtのチュートリアルです。とりあえず、sbtに触ってみようとするときに、有用なガイドになるでしょう。訳：[@eed3si9n](https://twitter.com/eed3si9n)
 * [Scala 2.8 コレクション API](http://docs.scala-lang.org/ja/overviews/collections/introduction.html)  
 Scala 2.8 コレクションのAPIについての解説記事の翻訳です。各種コレクションの性能特性についても表形式で載っているので、Scala 2.8以降のコレクションライブラリを使いこなしたい人は必見です。訳：[@eed3si9n](https://twitter.com/eed3si9n)
 * [Scalaコレクションのアーキテクチャ](http://scalajp.github.com/scala-collections-impl-doc-ja/)  
