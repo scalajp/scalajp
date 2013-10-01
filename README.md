@@ -3,9 +3,9 @@ scalajp
 
 Web Site for [ScalaJP](http://jp.scala-users.org/)
 
-## To Update ScalaJP Web Site
+### To Update ScalaJP Web Site
 
-Since the contents of ([http://jp.scala-users.org](http://jp.scala-users.org) is under this repository, anyone can send pull requests to
+Since the contents of [http://jp.scala-users.org](http://jp.scala-users.org) is under this repository, anyone can send pull requests to
 fix/modify the contents.
 
 1. Install gems.  Using bundler is recommended.
