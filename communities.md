@@ -15,7 +15,7 @@ title: コミュニティとイベント
 
 ### イベント
 
-* 外部セミナー:[Javaプログラマの為のScala入門(名古屋ソフトウェアセンター)](http://www.nagoya-sc.co.jp/ap/seminar?m=1&key=10871) 
+* 外部セミナー:[Javaプログラマの為のScala入門(2014/01/27,28 名古屋ソフトウェアセンター)](http://www.nagoya-sc.co.jp/ap/seminar?m=1&key=10871) 
 * ScalaJP:[Scala Conference in Japan 2013](http://scalaconf.jp/)
 * ScalaJP:[第二回Scala会議(2012/12/10)](#)
 * ScalaJP:[Scala初心者向けハンズオン勉強会(2012/02/18)](https://groups.google.com/forum/#!topic/scala-jp/l5i6kJcOnB4)
