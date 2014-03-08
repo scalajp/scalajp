@@ -8,6 +8,11 @@ title: 採用事例(国内)
 
 このページでは、国内のScala採用事例の一部について紹介します。
 
+### [ドワンゴ](http://info.dwango.co.jp/)
+
+* [AndroidのAPIサーバー](http://www.slideshare.net/SatoshiGoto/scalaandroid-16921765)
+* [ニコニコ生放送](http://www.slideshare.net/sifue/developers-summit-2014-play2scalaweb)
+
 ### [株式会社 システムアート](http://www.sysart.jp/)
 
 業務システムにScalaを導入しています。
