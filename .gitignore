@@ -4,3 +4,4 @@ _site
 .rvmrc
 .ruby-version
 .ruby-gemset
+/.bundle/
