@@ -11,8 +11,8 @@ Scala関係のリンク集です。
 ### Scala 処理系関連(Links Related to Scala Offical)
 
 * [APIリファレンス Scala 最新](http://www.scala-lang.org/api/current/index.html)
-* [APIリファレンス Scala 2.10.3](http://www.scala-lang.org/api/2.10.3/index.html#package)
-* [APIリファレンス Scala 2.9.3](http://www.scala-lang.org/api/2.9.3/index.html#package)
+* [APIリファレンス Scala 2.11.0](http://www.scala-lang.org/api/2.11.0/index.html#package)
+* [APIリファレンス Scala 2.10.4](http://www.scala-lang.org/api/2.10.4/index.html#package)
 * [Scalaのオフィシャルサイト(英語)](http://www.scala-lang.org/)
 * [Scalaのオフィシャルドキュメンテーションサイト(英語)](http://docs.scala-lang.org/)
 
