@@ -23,7 +23,7 @@ Scala関係のリンク集です。
   * [playframework](http://www.playframework-ja.org/)[(英語)](http://www.playframework.com/)
 * IDE&ビルドツール
   * [ScalaIDE](http://www.scala-ide.org/) Eclipseのプラグイン
-  * [IntelliJ IDEA](http://www.jetbrains.com/idea/) scalaにも対応したIDE。Scala初心者向けハンズオン勉強会にて利用します。
+  * [IntelliJ IDEA](http://www.jetbrains.com/idea/) scalaにも対応したIDE
   * [sbt (Scala Build Tool)](http://www.scala-sbt.org/)
   * [始めるsbt](http://scalajp.github.com/sbt-getting-started-guide-ja/)([原文](http://www.scala-sbt.org/release/docs/Getting-Started/Welcome.html))
 * データベースアクセス
