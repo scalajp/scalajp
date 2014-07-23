@@ -35,4 +35,4 @@ Scala関係のリンク集です。
   * [Scalaメモ(Hishidama’s Scala Memo) ](http://www.ne.jp/asahi/hishidama/home/tech/scala/index.html) 
     [@hishidama](https://twitter.com/hishidama)さんによる、Scala関係のメモ。メモといえど、結構な情報量があり、参考になります。
 * グループで活動されている方々のリンク集
-  * [Scala 勉強会 in 渋谷のリンク集ページ](http://scala-users.org/shibuya/index.php?title=%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86)
+  * [Scala 勉強会 in 東京のリンク集ページ](http://scala-users.org/shibuya/index.php?title=%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86)
