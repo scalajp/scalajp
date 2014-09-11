@@ -27,3 +27,4 @@ title: コミュニティとイベント
 * [Akasaka.scala](http://akskscala.github.com/) 赤坂（溜池山王）界隈を中心としたScalaプログラマのコミュニティです。主な活動 として、週一回、Javaのバックグラウンドを持つ方を対象としたハンズオン勉強会を 開催されていましたが、最近はその他にも色々やっているようです。
 * [名古屋Scala勉強会](https://groups.google.com/group/NagoyaScala?hl=ja) 名古屋近辺で、Scalaに関する勉強会を毎月開催されています。勉強会では、Scalaにとどまらず、OCaml,Haskellなど、その他のプログラミング言語に関する話題も取り扱っておられるようです。
 * [天領倉敷Scala](http://tenryo-kurashiki-scala.appspot.com/) 岡山県倉敷市近辺でScalaの勉強会を行うコミュニティです。現在、書籍『Scalaプログラミング入門』を使った勉強会を開催されているようです。
+* [Scala関西ビギナーズ](https://github.com/SAMMY7th/scala_kb/wiki) 大阪で不定期開催しているScala初心者向け勉強会です。
