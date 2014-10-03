@@ -18,7 +18,7 @@ title: コミュニティとイベント
 Scala 関連のことが気軽に聞ける/話せるチャットです。
 始めたばかりの方からの質問もお待ちしています。
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/scalajp/public)
+[![Gitter chat](https://badges.gitter.im/チャット.svg)](https://gitter.im/scalajp/public)
 
 ### イベント
 
