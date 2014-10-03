@@ -13,6 +13,13 @@ title: コミュニティとイベント
 * [ScalaJP Google Groups (ML)](https://groups.google.com/forum/#!forum/scala-jp)
 * [日本Playframeworkユーザー会](https://groups.google.com/forum/#!forum/play_ja)
 
+### チャット
+
+Scala 関連のことが気軽に聞ける/話せるチャットです。
+始めたばかりの方からの質問もお待ちしています。
+
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/scalajp/public)
+
 ### イベント
 
 * 外部セミナー:[Javaプログラマの為のScala入門(2014/01/27,28 名古屋ソフトウェアセンター)](http://www.nagoya-sc.co.jp/ap/seminar?m=1&key=10871) 
