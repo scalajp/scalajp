@@ -22,8 +22,10 @@ Scala 関連のことが気軽に聞ける/話せるチャットです。
 
 ### イベント
 
-* 外部セミナー:[Javaプログラマの為のScala入門(2014/01/27,28 名古屋ソフトウェアセンター)](http://www.nagoya-sc.co.jp/ap/seminar?m=1&key=10871) 
-* ScalaJP:[Scala Conference in Japan 2013](http://scalaconf.jp/)
+* [Scala関西 Summit 2015](http://summit.scala-kansai.org/)
+* ScalaJP:[ScalaMatsuri 2014](http://2014.scalamatsuri.org/)
+* 外部セミナー:[Javaプログラマの為のScala入門(2014/01/27,28 名古屋ソフトウェアセンター)](http://www.nagoya-sc.co.jp/ap/seminar?m=1&key=10871)
+* ScalaJP:[Scala Conference in Japan 2013](http://2014.scalamatsuri.org/2013/)
 * ScalaJP:[第二回Scala会議(2012/12/10)](#)
 * ScalaJP:[Scala初心者向けハンズオン勉強会(2012/02/18)](https://groups.google.com/forum/#!topic/scala-jp/l5i6kJcOnB4)
 * [JavaOne Tokyo 2012 JVM言語BoF #jt12_b101(2012/04/04)](http://togetter.com/li/283845): ScalaJPが参加
