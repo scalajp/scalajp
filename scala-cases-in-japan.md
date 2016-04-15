@@ -8,6 +8,18 @@ title: 採用事例(国内)
 
 このページでは、国内のScala採用事例の一部について紹介します。
 
+---
+###[株式会社オプト OptTechnologies](https://www.opt.ne.jp/opttechnologies/)
+
+複数のプロダクトでScalaを使用しています。また、当社の主催するイベント[市ヶ谷Geek★Night](http://ichigayageek.connpass.com)でもScalaをテーマに採用するなど積極的な普及活動を行っています。
+
+**Scala使用プロダクト**
+
+* [unis](http://lp.unis.tokyo) ダイナミック・クリエイティブツール
+* 大規模広告効果測定ツール
+* アドベリフィケーションツール
+
+----
 ###[株式会社サイバーエージェント　アドテクスタジオ](http://www.cyberagent.co.jp/recruit/special/career_adtech/)
 
 当社が提供するスマートフォン広告や、広告管理ツールなどの開発に「Scala」を使っており、今後も更に「Scala」の導入を推奨していきます。また、[ScalaMatsuri 2014](http://scalamatsuri.org/)の会場提供や社内外に向けたScalaイベントを実施しており、Scalaの普及活動を積極的に行っています。
