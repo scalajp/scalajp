@@ -50,6 +50,9 @@ title: 採用事例(国内)
 
 * [AndroidのAPIサーバー](http://www.slideshare.net/SatoshiGoto/scalaandroid-16921765)
 * [ニコニコ生放送](http://www.slideshare.net/sifue/developers-summit-2014-play2scalaweb)
+* [アカウントシステム](http://www.slideshare.net/hexx/scalamatsuri-2016-scala)
+* [Apache Kafkaを使ったマイクロサービス基盤](http://xuwei-k.github.io/slides/kafka-matsuri/#1)
+* [公式相撲アプリのサーバー](https://speakerdeck.com/tlync/guo-ji-to-scala-japans-national-sport-and-scala)
 
 ----
 ### [株式会社 システムアート](http://www.sysart.jp/)
