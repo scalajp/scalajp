@@ -2,4 +2,4 @@ name: ScalaJP
 safe: true
 lsi: false
 pygments: true
-markdown: rdiscount
+markdown: kramdown
