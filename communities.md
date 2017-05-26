@@ -22,7 +22,13 @@ Scala 関連のことが気軽に聞ける/話せるチャットです。
 
 ### イベント
 
-* [Scala関西 Summit 2015](http://summit.scala-kansai.org/)
+* [Scala関西 Summit 2017](http://summit.scala-kansai.org/)
+* [Scala福岡2017](https://scala.connpass.com/event/57941/)
+* ScalaJP:[ScalaMatsuri 2017](http://2017.scalamatsuri.org/)
+* [Scala関西 Summit 2016](http://summit.scala-kansai.org/2016/index.html)
+* [Scala福岡2016](https://scala.connpass.com/event/26674/)
+* ScalaJP:[ScalaMatsuri 2016](http://2016.scalamatsuri.org/)
+* [Scala関西 Summit 2015](http://summit.scala-kansai.org/2015/index.html)
 * ScalaJP:[ScalaMatsuri 2014](http://2014.scalamatsuri.org/)
 * 外部セミナー:[Javaプログラマの為のScala入門(2014/01/27,28 名古屋ソフトウェアセンター)](http://www.nagoya-sc.co.jp/ap/seminar?m=1&key=10871)
 * ScalaJP:[Scala Conference in Japan 2013](http://2014.scalamatsuri.org/2013/)
