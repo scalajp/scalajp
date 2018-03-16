@@ -17,8 +17,8 @@ title: 採用事例(国内)
 **Scala使用プロダクト**
 
 * [unis](http://lp.unis.tokyo) ダイナミック・クリエイティブツール
-* 大規模広告効果測定ツール
-* アドベリフィケーションツール
+* [ADPLAN](https://www.adplan7.com) 大規模広告効果測定ツール
+* [Feed Terminal](https://feed-terminal.jp) データフィードマネジメントツール
 
 ----
 
