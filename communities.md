@@ -22,6 +22,7 @@ Scala 関連のことが気軽に聞ける/話せるチャットです。
 
 ### イベント
 
+* ScalaJP:[ScalaMatsuri 2018](http://2018.scalamatsuri.org/)
 * [Scala関西 Summit 2017](http://summit.scala-kansai.org/)
 * [Scala福岡2017](https://scala.connpass.com/event/57941/)
 * ScalaJP:[ScalaMatsuri 2017](http://2017.scalamatsuri.org/)
